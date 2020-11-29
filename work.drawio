@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T14:32:06.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nMxfwZWRGk_hUkasKmpU" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T14:50:22.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zkAXcP5Li20Y9DcXulb5" version="13.10.4" type="github">
   <diagram id="rmJ-V9XCcDl1ALRttNvQ" name="Page-1">
     <mxGraphModel dx="2893" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,57 @@
         </mxCell>
         <mxCell id="ryLXldEkGT0z4X6GuvWk-59" value="前视觉相机正视图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-62" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="840" as="sourcePoint" />
+            <mxPoint x="680" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-65" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="960" as="sourcePoint" />
+            <mxPoint x="80" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-66" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="960" as="sourcePoint" />
+            <mxPoint x="680" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-67" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="840" as="sourcePoint" />
+            <mxPoint x="680" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-68" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="840" as="sourcePoint" />
+            <mxPoint x="680" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-69" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="840" as="sourcePoint" />
+            <mxPoint x="680" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1080" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-72" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-73" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-74" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryLXldEkGT0z4X6GuvWk-77" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="286" y="1080" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
